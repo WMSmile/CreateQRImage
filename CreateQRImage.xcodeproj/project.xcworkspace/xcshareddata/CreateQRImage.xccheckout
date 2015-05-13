@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D4C1B4C0-9181-44F9-8B56-5A92931D3A7E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CreateQRImage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B0F7B61AC19AF38F010F84F810F13384E6499D31</key>
+		<string>https://github.com/WMSmile/CreateQRImage.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CreateQRImage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B0F7B61AC19AF38F010F84F810F13384E6499D31</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WMSmile/CreateQRImage.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B0F7B61AC19AF38F010F84F810F13384E6499D31</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B0F7B61AC19AF38F010F84F810F13384E6499D31</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CreateQRImage</string>
+		</dict>
+	</array>
+</dict>
+</plist>
